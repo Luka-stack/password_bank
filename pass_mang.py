@@ -8,7 +8,6 @@ import os
 
 sg.theme('DarkBrown1')
 
-# TMP
 CURRENT_FOLDER = '.'
 USERS_DB = os.path.join(CURRENT_FOLDER, '.users.db')
 
